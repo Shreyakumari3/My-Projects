@@ -12,7 +12,7 @@ body {
 
 
 header {
-    background-image: url(assests/netflix.jpg);
+    background-image: url(netflix.jpg);
     height: 80vh;
     width: 100%;
     background-size: cover;
